@@ -1,5 +1,5 @@
 # AeroGrame
-
+<img width="480" height="480" alt="Untitled design" src="https://github.com/user-attachments/assets/ad6dcaf6-c7ca-46c0-a4d9-c117e1de446d" />
 
 
 **AeroGrame™ Edition 0** is an operating system with many unique features available only on **AeroGrame™**, built by 
